@@ -1,2 +1,1 @@
-hi
-I'm so happy to be part of alx
+Wow I'm an alx student
